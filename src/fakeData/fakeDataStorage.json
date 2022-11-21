@@ -1,0 +1,879 @@
+{
+  "achievement": [
+    {
+      "id": 118,
+      "avatarUrl": "https://google.com/b56a5664-3aff-4dc5-b145-303dcd06d65e",
+      "name": "Acolyte",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Join Eegee's public group",
+      "descriptionFull": "Join Eegee's public group",
+      "awardType": "ip",
+      "created": "2022-09-08T11:56:49.017589Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 66,
+          "type": "special_community_follow",
+          "operator": ">=",
+          "value": 6,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T11:00:02.833679Z"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "avatarUrl": "https://google.com/8e8db851-45dd-4a5e-8a08-f61b643f2786",
+      "name": "Apollo here we go",
+      "awardPoints": 30,
+      "isSystem": true,
+      "descriptionShort": "Get 1000 likes on your posts",
+      "descriptionFull": "Get 1000 likes on your posts",
+      "awardType": "ip",
+      "created": "2022-09-06T14:27:37.021729Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 57,
+          "type": "received_like_count",
+          "operator": ">=",
+          "value": 1000,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:48:37.265751Z"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "avatarUrl": "https://google.com/c3564c49-eae6-44a1-b62b-556d31260167",
+      "name": "Bachelor",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "Be the second to join a group",
+      "descriptionFull": "Be the second to join a group",
+      "awardType": "ip",
+      "created": "2022-09-13T13:05:01.959256Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 80,
+          "type": "community_follow_among",
+          "operator": ">=",
+          "value": 2,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-13T13:00:56.545799Z"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "avatarUrl": "https://google.com/3341e608-6921-42e4-be7c-ed20d3a7c5e8",
+      "name": "Benevolent",
+      "awardPoints": 20,
+      "isSystem": true,
+      "descriptionShort": "Like 500 posts",
+      "descriptionFull": "Like 500 posts",
+      "awardType": "ip",
+      "created": "2022-09-12T10:54:15.182254Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 61,
+          "type": "like_count",
+          "operator": ">=",
+          "value": 500,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:50:48.239783Z"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "avatarUrl": "https://google.com/65a51f68-cfa1-42d0-b1e9-98de881c3b19",
+      "name": "Early adopters",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "Be among the first 50 members of a group",
+      "descriptionFull": "Be among the first 50 members of a group",
+      "awardType": "ip",
+      "created": "2022-09-13T13:05:01.959256Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 83,
+          "type": "community_follow_among",
+          "operator": ">=",
+          "value": 50,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-13T13:00:56.545799Z"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "avatarUrl": "https://google.com/05d8d1ca-a427-4baa-a637-913cd460365b",
+      "name": "Editor",
+      "awardPoints": 15,
+      "isSystem": true,
+      "descriptionShort": "Post 250 comments",
+      "descriptionFull": "Post 250 comments",
+      "awardType": "ip",
+      "created": "2022-09-06T14:10:08.444623Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 50,
+          "type": "comment_count",
+          "operator": ">=",
+          "value": 250,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:45:35.489628Z"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "avatarUrl": "https://google.com/7995caca-82b0-4ecc-abb5-8e78e100ad1b",
+      "name": "Enrolly",
+      "awardPoints": 3,
+      "isSystem": true,
+      "descriptionShort": "Be the third to join a group",
+      "descriptionFull": "Be the third to join a group",
+      "awardType": "ip",
+      "created": "2022-09-13T13:05:01.959256Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 81,
+          "type": "community_follow_among",
+          "operator": ">=",
+          "value": 3,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-13T13:00:56.545799Z"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "avatarUrl": "https://google.com/7001f128-6b5c-485a-a637-e504016cbec9",
+      "name": "Fan",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Join Divada's public group",
+      "descriptionFull": "Join Divada's public group",
+      "awardType": "ip",
+      "created": "2022-09-08T11:56:49.017589Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 67,
+          "type": "special_community_follow",
+          "operator": ">=",
+          "value": 4,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T11:03:06.237425Z"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "avatarUrl": "https://google.com/611592dd-d0d5-4b26-b076-8402a635d7a1",
+      "name": "First one",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "First one",
+      "descriptionFull": "Post your first comment",
+      "awardType": "ip",
+      "created": "2022-09-01T17:26:39Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 48,
+          "type": "comment_count",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:45:35.489628Z"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "avatarUrl": "https://google.com/a50943d1-68c8-4872-a1b8-7892f3f6cd58",
+      "name": "Follower",
+      "awardPoints": 3,
+      "isSystem": true,
+      "descriptionShort": "Join a public group",
+      "descriptionFull": "Join a public group",
+      "awardType": "ip",
+      "created": "2022-09-08T09:19:58.050611Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 63,
+          "type": "public_community_follow_count",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:57:31.55722Z"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "avatarUrl": "https://google.com/d6ec47a3-0229-40fd-a7ea-0d6ae7e418b5",
+      "name": "Generous",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Like 100 posts",
+      "descriptionFull": "Like 100 posts",
+      "awardType": "ip",
+      "created": "2022-09-12T10:54:15.182254Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 59,
+          "type": "like_count",
+          "operator": ">=",
+          "value": 100,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:50:48.239783Z"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "avatarUrl": "https://google.com/149e9418-b844-478d-b4b1-aed7b2731bc5",
+      "name": "Here we go",
+      "awardPoints": 15,
+      "isSystem": true,
+      "descriptionShort": "Get 250 likes on your posts",
+      "descriptionFull": "Get 250 likes on your posts",
+      "awardType": "ip",
+      "created": "2022-09-06T14:27:37.021729Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 55,
+          "type": "received_like_count",
+          "operator": ">=",
+          "value": 250,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:48:37.265751Z"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "avatarUrl": "https://google.com/3118580f-a0ae-4a2b-8967-df7be157eb87",
+      "name": "Innovators",
+      "awardPoints": 3,
+      "isSystem": true,
+      "descriptionShort": "Be among the first 100 members of a group",
+      "descriptionFull": "Be among the first 100 members of a group",
+      "awardType": "ip",
+      "created": "2022-09-13T13:05:01.959256Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 84,
+          "type": "community_follow_among",
+          "operator": ">=",
+          "value": 100,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-13T13:00:56.545799Z"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "avatarUrl": "https://google.com/1faa89e8-5236-44a9-b479-50720aef96dd",
+      "name": "Junior editor",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Post 100 comments",
+      "descriptionFull": "Post 100 comments",
+      "awardType": "ip",
+      "created": "2022-09-06T14:10:08.444623Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 49,
+          "type": "comment_count",
+          "operator": ">=",
+          "value": 100,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:45:35.489628Z"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "avatarUrl": "https://google.com/5bc32e15-ceb8-443e-ab5b-65836e9bb1b1",
+      "name": "Lead the way",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Be among the first 10 members of a group",
+      "descriptionFull": "Be among the first 10 members of a group",
+      "awardType": "ip",
+      "created": "2022-09-13T13:05:01.959256Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 82,
+          "type": "community_follow_among",
+          "operator": ">=",
+          "value": 10,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-13T13:00:56.545799Z"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "avatarUrl": "https://google.com/6382f956-ee1f-4e1d-8bba-02d812f1929c",
+      "name": "Master",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Be the first to join a group",
+      "descriptionFull": "Be the first to join a group",
+      "awardType": "ip",
+      "created": "2022-09-13T13:05:01.959256Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 79,
+          "type": "community_follow_among",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-13T13:00:56.545799Z"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "avatarUrl": "https://google.com/f7437332-42f0-4382-b185-25b55794bd09",
+      "name": "Servant",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Join TechV's public group",
+      "descriptionFull": "Join TechV's public group",
+      "awardType": "ip",
+      "created": "2022-09-08T11:56:49.017589Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 68,
+          "type": "special_community_follow",
+          "operator": ">=",
+          "value": 5,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T11:04:03.654937Z"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "avatarUrl": "https://google.com/9e4e5f71-b9a9-47d1-99f9-0b120751276b",
+      "name": "Sharing Is Caring",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "description",
+      "descriptionFull": "Like someone's post",
+      "awardType": "ip",
+      "created": "2022-09-12T10:54:15.182254Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 58,
+          "type": "like_count",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:50:48.239783Z"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "avatarUrl": "https://google.com/4af42f57-c4ce-43d4-923d-6741ea45d439",
+      "name": "Society",
+      "awardPoints": 3,
+      "isSystem": true,
+      "descriptionShort": "Be among the first 100 Nümi Core members",
+      "descriptionFull": "Be among the first 100 Nümi Tribe members",
+      "awardType": "ip",
+      "created": "2022-09-12T12:32:25.810987Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 75,
+          "type": "user_registration_among",
+          "operator": ">=",
+          "value": 1000,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T12:31:22.362222Z"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "avatarUrl": "https://google.com/90142d08-8e03-417e-9058-05cebc08a875",
+      "name": "Unforgettable",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "Get your post liked",
+      "descriptionFull": "Get your post liked",
+      "awardType": "ip",
+      "created": "2022-09-02T14:07:54.17202Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 53,
+          "type": "received_like_count",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:48:37.265751Z"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "avatarUrl": "https://google.com/761d06a2-7eb8-49b9-9d5c-89373380f465",
+      "name": "Unsparing",
+      "awardPoints": 15,
+      "isSystem": true,
+      "descriptionShort": "Like 250 posts",
+      "descriptionFull": "Like 250 posts",
+      "awardType": "ip",
+      "created": "2022-09-12T10:54:15.182254Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 60,
+          "type": "like_count",
+          "operator": ">=",
+          "value": 250,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:50:48.239783Z"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "avatarUrl": "https://google.com/c6569722-7ccc-4987-a763-c85e13cd607b",
+      "name": "We share a secret",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "Join a private club",
+      "descriptionFull": "Join a private club",
+      "awardType": "ip",
+      "created": "2022-09-08T09:32:49.399382Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 64,
+          "type": "private_community_follow_count",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:57:31.55722Z"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "avatarUrl": "https://google.com/c1ff3ed0-63ae-4077-9185-2b17e9e3760d",
+      "name": "Wow, thanks",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "Complete your profile:\nConfirm the email\nFill out the main fields\nUpload the profile avatar\nSex of your ingame character",
+      "descriptionFull": "",
+      "awardType": "ip",
+      "created": "2022-09-13T15:11:29.307716Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 110,
+          "type": "user_profile_completed",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-10-25T13:57:57.817086Z"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "avatarUrl": "https://google.com/d2d00a56-3956-4be1-8d89-9752a08c71ee",
+      "name": "You know the drill",
+      "awardPoints": 22,
+      "isSystem": true,
+      "descriptionShort": "Become the most liked post author of every week in the month",
+      "descriptionFull": "Become the most-liked author of this month and 4 weeks in a row",
+      "awardType": "ip",
+      "created": "2022-10-25T13:03:17.708286Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 104,
+          "type": "user_received_four_achievements_by_month",
+          "operator": ">=",
+          "value": 142,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-10-25T12:05:56.71903Z"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "avatarUrl": "https://google.com/77e79782-8e40-44b0-9248-df89c2395c6f",
+      "name": "You're remarkable",
+      "awardPoints": 20,
+      "isSystem": true,
+      "descriptionShort": "Get 500 likes on your posts",
+      "descriptionFull": "Get 500 likes on your posts",
+      "awardType": "ip",
+      "created": "2022-09-06T14:27:37.021729Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 56,
+          "type": "received_like_count",
+          "operator": ">=",
+          "value": 500,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:48:37.265751Z"
+        }
+      ]
+    }
+  ],
+  "user": [
+    {
+      "id": 112,
+      "email": "ex@example.com",
+      "nickname": "ladyofqa",
+      "firstName": "Е",
+      "lastName": "T",
+      "avatarUrl": "https://example.com/96fbe53c-72ce-4758-8aa9-a0152dc0c560.jpeg",
+      "created": "2022-09-20T17:00:22.496981Z",
+      "city": "yerevan",
+      "bio": "fffffтптапрт",
+      "isProfileActivatedEmailSent": true,
+      "type": "user",
+      "status": "active",
+      "userStreamingStatus": "offline",
+      "followersCount": 0,
+      "videosCount": 0,
+      "postsCount": 4,
+      "communityFollowsCount": 8,
+      "streamViewsCount": 0,
+      "commentsCount": 43,
+      "ipBalance": 580,
+      "isFollowing": false,
+      "dateOfBirth": "1988-10-10T09:00:00Z",
+      "country": {
+        "id": 1,
+        "name": "United States of America",
+        "shortName": "USA"
+      },
+      "featuredBannerUrl": "https://example.com/1558690810_3.jpg",
+      "streamPageBannerUrl": "https://example.com/8bf9dbfd040bf5a5b1e9e748b7c8cd19.jpg"
+    }
+  ],
+  "user112achievements": [
+    {
+      "id": 135,
+      "avatarUrl": "https://example.com/6382f956-ee1f-4e1d-8bba-02d812f1929c",
+      "name": "Master",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Be the first to join a group",
+      "descriptionFull": "Be the first to join a group",
+      "awardType": "ip",
+      "created": "2022-09-13T13:05:01.959256Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 79,
+          "type": "community_follow_among",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-13T13:00:56.545799Z"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "avatarUrl": "https://example.com/f7437332-42f0-4382-b185-25b55794bd09",
+      "name": "Servant",
+      "awardPoints": 10,
+      "isSystem": true,
+      "descriptionShort": "Join TechV's public group",
+      "descriptionFull": "Join TechV's public group",
+      "awardType": "ip",
+      "created": "2022-09-08T11:56:49.017589Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 68,
+          "type": "special_community_follow",
+          "operator": ">=",
+          "value": 5,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T11:04:03.654937Z"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "avatarUrl": "https://example.com/9e4e5f71-b9a9-47d1-99f9-0b120751276b",
+      "name": "Sharing Is Caring",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "description",
+      "descriptionFull": "Like someone's post",
+      "awardType": "ip",
+      "created": "2022-09-12T10:54:15.182254Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 58,
+          "type": "like_count",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:50:48.239783Z"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "avatarUrl": "https://example.com/4af42f57-c4ce-43d4-923d-6741ea45d439",
+      "name": "Society",
+      "awardPoints": 3,
+      "isSystem": true,
+      "descriptionShort": "Be among the first 100 Nümi Core members",
+      "descriptionFull": "Be among the first 100 Nümi Tribe members",
+      "awardType": "ip",
+      "created": "2022-09-12T12:32:25.810987Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 75,
+          "type": "user_registration_among",
+          "operator": ">=",
+          "value": 1000,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T12:31:22.362222Z"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "avatarUrl": "https://example.com/90142d08-8e03-417e-9058-05cebc08a875",
+      "name": "Unforgettable",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "Get your post liked",
+      "descriptionFull": "Get your post liked",
+      "awardType": "ip",
+      "created": "2022-09-02T14:07:54.17202Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 53,
+          "type": "received_like_count",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:48:37.265751Z"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "avatarUrl": "https://example.com/761d06a2-7eb8-49b9-9d5c-89373380f465",
+      "name": "Unsparing",
+      "awardPoints": 15,
+      "isSystem": true,
+      "descriptionShort": "Like 250 posts",
+      "descriptionFull": "Like 250 posts",
+      "awardType": "ip",
+      "created": "2022-09-12T10:54:15.182254Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 60,
+          "type": "like_count",
+          "operator": ">=",
+          "value": 250,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:50:48.239783Z"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "avatarUrl": "https://example.com/c6569722-7ccc-4987-a763-c85e13cd607b",
+      "name": "We share a secret",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "Join a private club",
+      "descriptionFull": "Join a private club",
+      "awardType": "ip",
+      "created": "2022-09-08T09:32:49.399382Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 64,
+          "type": "private_community_follow_count",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:57:31.55722Z"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "avatarUrl": "https://example.com/c1ff3ed0-63ae-4077-9185-2b17e9e3760d",
+      "name": "Wow, thanks",
+      "awardPoints": 5,
+      "isSystem": true,
+      "descriptionShort": "Complete your profile:\nConfirm the email\nFill out the main fields\nUpload the profile avatar\nSex of your ingame character",
+      "descriptionFull": "",
+      "awardType": "ip",
+      "created": "2022-09-13T15:11:29.307716Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 110,
+          "type": "user_profile_completed",
+          "operator": ">=",
+          "value": 1,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-10-25T13:57:57.817086Z"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "avatarUrl": "https://example.com/d2d00a56-3956-4be1-8d89-9752a08c71ee",
+      "name": "You know the drill",
+      "awardPoints": 22,
+      "isSystem": true,
+      "descriptionShort": "Become the most liked post author of every week in the month",
+      "descriptionFull": "Become the most-liked author of this month and 4 weeks in a row",
+      "awardType": "ip",
+      "created": "2022-10-25T13:03:17.708286Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 104,
+          "type": "user_received_four_achievements_by_month",
+          "operator": ">=",
+          "value": 142,
+          "valueType": "bool",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-10-25T12:05:56.71903Z"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "avatarUrl": "https://example.com/77e79782-8e40-44b0-9248-df89c2395c6f",
+      "name": "You're remarkable",
+      "awardPoints": 20,
+      "isSystem": true,
+      "descriptionShort": "Get 500 likes on your posts",
+      "descriptionFull": "Get 500 likes on your posts",
+      "awardType": "ip",
+      "created": "2022-09-06T14:27:37.021729Z",
+      "isNew": false,
+      "achievementConditions": [
+        {
+          "id": 56,
+          "type": "received_like_count",
+          "operator": ">=",
+          "value": 500,
+          "valueType": "int",
+          "isChallenge": false,
+          "isSystem": true,
+          "created": "2022-09-12T10:48:37.265751Z"
+        }
+      ]
+    }
+  ]
+}
